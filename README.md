@@ -1,6 +1,6 @@
 # Automate The Boring Stuff with Python (2nd Edition) - A Python Semi-Noobie's Workthrough  
   
-In this repository, I will be working through the entire "Automate the Boring St#uff with Python (2e)" text by the incredible @alsweigart  
+In this repository, I will be working through the entire "Automate the Boring St#uff with Python (2e)" text by the incredible @asweigart  
   
 ![Automate The Boring Stuff](https://automatetheboringstuff.com/images/cover_automate2_thumb.jpg)
   
