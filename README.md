@@ -1,4 +1,4 @@
-###Automate The Boring Stuff with Python (2nd Edition) - A Python Semi-Noobie's Workthrough
+### Automate The Boring Stuff with Python (2nd Edition) - A Python Semi-Noobie's Workthrough
 
 In this repository, I will be working through the entire "Automate the Boring St#uff with Python (2e)" text by the incredible @alsweigart .
 
@@ -14,14 +14,13 @@ Ancillary skills will be folded into this project (starting at various times), i
 -Expanded use of the terminal
 -Larger projects (if applicable) may be broken into multiple files/folders
 
-
 The goal is to complete the entire text, including all projects, within three (3) months of repository inception.
 
 Begin Date: 4/18/2022
 Goal Completion Date: 7/11/2022
 Actual Completion Date:
 
-##Chapter Checklist
+## Chapter Checklist
 
 As chapters are completed, they will be checked off below for tracking purposes.
 - [x] Chapter 2 - Flow Control (Completed 4/20/2022)
