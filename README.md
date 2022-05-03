@@ -9,10 +9,10 @@ Far from being another run-of-the-mill, "here's your syntax, now build the Taj M
 Directories will be created for chapters/projects/exercises where code reproduction and/or creation will occur (straightforward one/two-liner examples in the text will not be copied....this isn't LPTHW).  
   
 Ancillary skills will be folded into this project (starting at various times), including:
--Git+Github
--github-cli
--Expanded use of the terminal
--Larger projects (if applicable) may be broken into multiple files/folders
+ - Git+Github
+ - github-cli
+ - Expanded use of the terminal
+ - Larger projects (if applicable) may be broken into multiple files/folders
   
 The goal is to complete the entire text, including all projects, within three (3) months of repository inception.  
   
