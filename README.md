@@ -26,7 +26,7 @@ As chapters are completed, they will be checked off below for tracking purposes.
 - [x] Chapter 2 - Flow Control (Completed 4/20/2022)
 - [x] Chapter 3 - Functions (Completed 4/20/2022)
 - [x] Chapter 4 - Lists (Completed 4/26/2022)
-- [ ] Chapter 5 - Dictionaries and Structuring Data
+- [x] Chapter 5 - Dictionaries and Structuring Data
 - [ ] Chapter 6 - Manipulating Strings
 - [ ] Chapter 7 - Pattern Matching with Regular Expressions
 - [ ] Chapter 8 - Input Validation
