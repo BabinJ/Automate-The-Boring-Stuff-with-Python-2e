@@ -23,9 +23,9 @@ def printTable(table):
         colWidths[col] = maxLen
 
     # Print out the table
-    for sublist in range(len(table)):
-        for i in table[sublist]:
-            print(i.rjust(colWidths[sublist]), " ")
+    for i in range(len(table[0])):
+        for j in range(len(table)):
+            print(table[j][i].rjust(colWidths[j]), " ", end=" ")
+        print()
 
-output = printTable(tableData)
-print(output)
+printTable(tableData)
