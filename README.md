@@ -27,7 +27,7 @@ As chapters are completed, they will be checked off below for tracking purposes.
 - [x] Chapter 3 - Functions (Completed 4/20/2022)
 - [x] Chapter 4 - Lists (Completed 4/26/2022)
 - [x] Chapter 5 - Dictionaries and Structuring Data (Completed 5/6/2022)
-- [ ] Chapter 6 - Manipulating Strings
+- [x] Chapter 6 - Manipulating Strings (Completed 5/25/2022)
 - [ ] Chapter 7 - Pattern Matching with Regular Expressions
 - [ ] Chapter 8 - Input Validation
 - [ ] Chapter 9 - Reading and Writing Files
