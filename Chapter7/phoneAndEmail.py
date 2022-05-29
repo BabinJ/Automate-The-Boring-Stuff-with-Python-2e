@@ -17,7 +17,7 @@ emailRegex = re.compile(r'''(
     [a-zA-Z0-9._%+-]+               # Username
     @                               # The @ symbol
     [a-zA-Z0-9.-]+                   # The domain name
-    (\.[a-zA-Z]{2,4})               # dot something (e.g. .com, .gov, .net, .ca)
+    (\.[a-zA-Z]{2,4})               # dot something (e.g.: .com, .gov, .net)
 )''', re.VERBOSE)
 
 # Find matches in clipboard text
