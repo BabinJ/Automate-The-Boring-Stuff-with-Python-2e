@@ -1,2 +1,3 @@
 -Look up the len(), round(), and abs() functions
 -Do more thorough testing on the chessboard validation program
+-https://pyinputplus.readthedocs.io/en/latest/#
